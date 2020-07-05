@@ -1,0 +1,12 @@
+
+body {
+	 background: blue!important;   
+    }
+/*   navbar decoration   */
+
+.mynav {
+	background-image: url('../image/4.jpg');
+    background-repeat: no-repeat;
+	background-size: cover; 
+	 background: red !important; 
+}

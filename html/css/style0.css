@@ -1,0 +1,26 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Poppins', sans-serif;
+}
+ a{
+	 text-decoration: none;
+ }
+ a:hover{
+	 text-decoration: none;
+ }
+ 
+ .header{
+	 position: relative;
+	 width:100%;
+	 height: 100vh;
+	 background-image: linear-gradient(rgba(0,168,255,0.2), rgba(0,168,255,0.2)), url('../matoshri/touch web-15.jpg');
+	  background-repeat: no-repeat;
+	   background-size: 100% 100%;
+ }
+ 
+ .main-center{
+	 position: absolute;
+	 top: 250px;
+	 left: 160px;
+ }

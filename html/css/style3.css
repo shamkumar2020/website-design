@@ -1,0 +1,37 @@
+.nil{
+	color: red;
+}
+.cbox{
+	border:5px solid;
+	height:600px;
+	
+	
+ }
+.arow{
+	border:10px solid yellow;
+	background: aqua;
+  }
+ .adiv{
+	height:60px;
+background-color:red;	
+  }
+  .bdiv{
+	height:60px;
+background-color:gray;	
+  }
+  .cdiv{
+	height:60px;
+background-color:chocolate;	
+  }
+  .ddiv{
+	height:60px;
+background-color:pink;	
+  }
+  .ediv{
+	height:60px;
+background-color:blue;	
+  }
+  .fdiv{
+	height:60px;
+background-color:green;	
+  }

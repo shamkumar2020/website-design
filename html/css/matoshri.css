@@ -1,0 +1,148 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Poppins', sans-serif;
+}
+ a{
+	 text-decoration: none;
+ } 
+ a:hover{
+	 text-decoration: none;
+ }
+ 
+ .header{
+	 position: relative;
+	 width:100%;
+	 height: 100vh;
+	 background-image: linear-gradient(rgba(0,168,255,0.2), rgba(0,168,255,0.2)), url('../matoshri/touch web-15.jpg');
+	 background-repeat: no-repeat;
+	 background-size: 100% 100%;
+ }
+ 
+. .navbar.before{
+	  content:"";
+	 position: absolute;
+	 top:0%;
+	 bottom: 0%;
+	 left: 0;
+	 right:0;
+	 opacity: 0.2;
+	 z-index: -1;
+	 background: linear-gradient(to right, #1e5799 0%, #3ccdbb 0%, #16c9f6 100%);
+ }
+ 
+ .nav-item a{
+	 color: #fff!important;
+	 font-weight: bold;
+ }
+ 
+ header-section{
+	 width: 100%;
+	 height: inherit:
+	 color: white;
+	 text-align: center;
+	 position: relative; 
+ }
+ 
+ .center-div{
+	   padding-top: 100px;
+	   box-sizing: border-box;
+ }
+  .center-div h1{
+	  font-size: 40px;
+	  font-weight: bold;
+  }
+ /*--------------------aboutus start-----------------------*/
+ 
+ .aboutdiv{
+	  width: 100%;
+	  position: relative;
+ }
+ 
+ .aboutdiv:before{
+	 content:"";
+	 position: absolute;
+	 top:0%;
+	 bottom: 0%;
+	 left: 0;
+	 right:0;
+	 z-index: -1;
+	 background: linear-gradient(-10deg, #16c9f6 55%, #ffff 0%);
+  }
+  
+  .img-fluid {
+    max-width: 100%;
+  }
+  /*-------------------------------------------aboutus end------------------------------------*/
+  
+  /*-------------------------------------------brands start---------------------------------------*/
+  
+ 
+  /*-------------------------------------------brands end------------------------------------*/
+  
+  
+  /*------------------------------------------- contact start------------------------------------*/
+
+  
+ .contactus{
+	  width: 100%;
+	  position: relative;
+ }
+ 
+ .contactus:before{
+	 content:"";
+	 position: absolute;
+	 top:0%;
+	 bottom: 0%;
+	 left: 0;
+	 right:0;
+	 z-index: -1;
+	 background: linear-gradient(160deg, #16c9f6 55%, #ffff 0%);
+  }
+ .form-button button{
+	 border: 1px solid #50d1c0;
+	 border-radius:100px;
+	 margin: 0 5px;
+	 padding: 12px 35px;
+	 outline: none;
+	 color: #50d1c0;
+     font-weight: 400;
+     line-height: 1.4;
+	 text-align: center;
+	 background: transparent;	
+  }
+   .form-button button:hover{
+	  color: #50d1c0;
+  }
+  
+   form:hover .form-button button{
+	   background: #fff;
+	   color: color: #50d1c0; 
+	   box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+   }
+  
+  /*--------------------------------------contact end-----------------------------------------*/
+  
+  /*--------------------------------------footer start-----------------------------------------*/
+  .ullist li a:hover {
+	  padding-left: 8px;
+	 opacity: 0.9;
+  transition: 0.3s;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5); 
+   text-decoration: none;
+}
+.sectfoot a:hover{
+	color:#000!important;
+	 text-decoration: none;
+}
+  
+  /*--------------------------------------footer end-----------------------------------------*/
+   
+  /*-----------------------------------media queries------------------------------------------*/
+  
+	
+  
+ 
+
